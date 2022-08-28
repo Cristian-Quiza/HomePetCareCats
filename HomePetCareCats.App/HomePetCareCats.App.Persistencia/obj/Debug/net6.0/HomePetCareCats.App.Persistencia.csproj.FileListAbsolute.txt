@@ -1,0 +1,17 @@
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.csproj.AssemblyReference.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.AssemblyInfoInputs.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.AssemblyInfo.cs
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\bin\Debug\net6.0\HomePetCareCats.App.Persistencia.deps.json
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\bin\Debug\net6.0\HomePetCareCats.App.Persistencia.runtimeconfig.json
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\bin\Debug\net6.0\HomePetCareCats.App.Persistencia.dll
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\bin\Debug\net6.0\HomePetCareCats.App.Persistencia.pdb
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\bin\Debug\net6.0\HomePetCareCats.App.Dominio.dll
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\bin\Debug\net6.0\HomePetCareCats.App.Dominio.pdb
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.csproj.CopyComplete
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.dll
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\refint\HomePetCareCats.App.Persistencia.dll
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.pdb
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\HomePetCareCats.App.Persistencia.genruntimeconfig.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HomePetCareCats\HomePetCareCats.App\HomePetCareCats.App.Persistencia\obj\Debug\net6.0\ref\HomePetCareCats.App.Persistencia.dll
