@@ -1,6 +1,6 @@
 namespace HomePetCareCats.App.Dominio
 {
-    public enum genero
+    public enum Genero
     {
         masculino,
         femenino,

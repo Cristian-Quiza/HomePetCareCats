@@ -5,7 +5,7 @@ namespace HomePetCareCats.App.Persistencia
 {
     public class appContext : DbContext
     {
-        public DbSet<persona> Personas {get; set;}
+        public DbSet<Persona> Personas {get; set;}
          protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder)
         {
             if(!optionsBuilder.IsConfigured)

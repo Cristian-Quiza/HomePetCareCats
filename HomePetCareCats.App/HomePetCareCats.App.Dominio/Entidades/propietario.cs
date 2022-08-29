@@ -1,10 +1,11 @@
 using System;
 namespace HomePetCareCats.App.Dominio
 {
-    public class propietario : persona
+    public class Propietario : Persona
     {       
-        public int idPropietario {get; set;}
-        public DateTime direccion {get; set;}
+        public int? Id {get; set;}
+        public Mascota? Gato {get; set;}
+        public DateTime? Direccion {get; set;}
 
     }
 }

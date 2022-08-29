@@ -1,7 +1,9 @@
 namespace HomePetCareCats.App.Dominio
 {
-    public class profesionalVeterinario : persona
+    public class ProfesionalVeterinario : Persona
     {
-        public int idProfecional {get; set;}
+        public int? Id {get; set;}
+        public System.Collections.Generic.List<Visita> visita { get; set; }
+
     }
 }

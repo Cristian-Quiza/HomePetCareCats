@@ -1,9 +1,10 @@
 namespace HomePetCareCats.App.Dominio
 {
-    public class mascota
+    public class Mascota
     {
-        public int idMascota {get; set;}
-        public string raza {get; set;}
-        public int edad {get; set;}
+        public int? Id {get; set;}
+        public string? Raza {get; set;}
+        public int? Edad {get; set;}
+        public ProfesionalVeterinario Veterinario {get; set;}
     }
 }

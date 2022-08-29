@@ -1,18 +1,17 @@
 using System;
 namespace HomePetCareCats.App.Dominio
 {
-    public class visita
+    public class Visita
     {
-        public int idVisita {get; set;}
-        public float temperatura {get; set;}
-        public float peso {get; set;}
-        public string frecuenciaRespiratoria {get; set;}
-        public string estadoAnimo {get; set;}
-        public DateTime fechaVisita {get; set;}
-        public string frecuenciaCardiaca {get; set;}
-        public string recomendaciones {get; set;}
-        public profesionalVeterinario veterinario {get; set;}
-        public mascota gato {get; set;}
+        public int? Id {get; set;}
+        public float? Temperatura {get; set;}
+        public float? Peso {get; set;}
+        public string? FrecuenciaRespiratoria {get; set;}
+        public string? EstadoAnimo {get; set;}
+        public DateTime? FechaVisita {get; set;}
+        public string? FrecuenciaCardiaca {get; set;}
+        public string? Recomendaciones {get; set;}
+        public ProfesionalVeterinario? VeterinarioProfesional {get; set;}        
     
     }
 }
